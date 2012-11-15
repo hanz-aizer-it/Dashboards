@@ -1,0 +1,344 @@
+<!-- jQuery for tabs -->
+<script>
+
+	$(function() {
+
+		$( "#tabs" ).tabs();
+
+	});
+
+</script>
+<!-- end jQuery setup -->
+	
+<!-- start container for dashboard section-->	
+<div class="AizerDashboard">
+
+	<!-- Tabs -->
+	<div id="tabs">
+
+		<!-- Labels for Tab menu -->
+		<ul>
+
+			<li><a href="#tabs-i">My Appointment/s</a></li>
+		
+			<li><a href="#tabs-1">CQ Overall Operations</a></li>
+
+			<li><a href="#tabs-2">NQ Overall Operations</a></li>
+
+			<li><a href="#tabs-3">SEQ Overall Operations</a></li>
+
+			<li><a href="#tabs-4">SEQ Operations Electical</a></li>
+			
+			<li><a href="#tabs-5">SEQ Operations Based on Work Types</a></li>
+			
+			<li><a href="#tabs-6">SEQ Operations Plumbing</a></li>	
+
+			<li><a href="#tabs-7">CQ Operations ABS - Insurance</a></li>
+			
+			<li><a href="#tabs-8">CQ Operations ABS - Facility</a></li>
+			
+			<li><a href="#tabs-9">NQ Operations ABS - Insurance</a></li>
+			
+			<li><a href="#tabs-10">NQ Operations ABS - Facility</a></li>
+
+			<li><a href="#tabs-11">Management App: All Projects</a></li>
+			
+			<li><a href="#tabs-12">Marketing App: All Projects</a></li>
+			
+			<li><a href="#tabs-13">IT App: All Projects</a></li>
+		</ul>
+		<!-- TAB i -->
+		<div id="tabs-i">
+			<table>
+				<tr>
+					<td>
+					<!-- Page i-->
+					<html>
+						<head>
+							<script lang="javascript" src="bgqbge82h?a=API_GenResultsTable&apptoken=cb72a4nb3h7hwnd6sut6cdhm5zxj&qid=28&jht=1">
+							</script>
+						</head>
+						<body align="left">
+						<br>
+						<font color="#2554C7" size= 2><b>General Tasks to be Done</b></font><br><br><br>
+						<font style="arial" size= 1.0 color ="#1589FF"><a href="bgqbge82h?a=q&qid=28" target ="_blank">
+						<img src="https://images.quickbase.com/si/16/001-doc.png">FULL REPORT </a>&nbsp|&nbsp
+						<a href="bgqbge82h?a=q&qid=28&dlta=mog~&qskip=0" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/079-file_paint.png">GRID EDIT</a> &nbsp|&nbsp
+						<a href="https://www.quickbase.com/db/bgqbge82h?a=nwr" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/034-doc_add.png">Add a New Update or Task</a> </font>
+						<br><br>
+						<script lang="javascript">
+						qdbWrite();
+						</script>
+					</body>
+				</html>
+				</td>
+			</tr>
+		</table>
+		</div>
+
+	<div id="tabs-1">
+		<table>
+			<tr>
+				<td>
+					<!-- charts side by side in table cell-->
+						<!-- Jobs that are running over scheduled date by Supervisor-->
+
+						<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=487&generate=map&IID=I38wuksvzu&width=1400&height=500"scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+						</iframe>
+
+				</td>
+			</tr>
+			
+		</table>
+	</div>
+
+
+	<div id="tabs-2">
+		<table>
+			<tr>
+				<td>
+					<!-- Jobs that are running over scheduled date by Supervisor-->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=489&generate=map&IID=I38wuksvzu&width=1400&height=500" 
+					scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+				</td>					
+					
+			</tr>
+		</table>
+	</div>
+	<div id="tabs-3">
+		<table>
+			<tr>
+				<td>
+					<!-- Jobs that are running over scheduled date by Supervisor-->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=490&generate=map&IID=I38wuksvzu&width=1400&height=500" 
+					scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+				</td>					
+					
+			</tr>
+		</table>
+	</div>
+	<div id="tabs-4">
+		<table>
+			<tr>
+				<td>
+					<!-- Jobs that are running over scheduled date by Supervisor-->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=491&generate=map&IID=I38wuksvzu&width=1400&height=500" 
+					scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+				</td>					
+					
+			</tr>
+		</table>
+	</div>
+	<div id="tabs-5">
+		<table align="center">
+			<tr>
+				<td>
+					 <!-- ABS INSURANCE -->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=492&generate=map&IID=I38wcv94t6&width=470&height=500" 
+					scrolling="no" frameborder="0" width="470px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+					 
+				</td>
+				<td>
+					<!-- ABS FACILITY -->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=493&generate=map&IID=I38xc86meq&width=470&height=500" 
+								scrolling="no" frameborder="0" width="470px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+				</td>
+				<td>
+					<!-- ABS PRIVATE -->
+
+					<iframe src="https://www.quickbase.com/Chart/chart.aspx?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=494&generate=map&IID=I38xc86meq&width=470&height=500" 
+								scrolling="no" frameborder="0" width="470px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+					</iframe>
+				</td>
+				
+			</tr>
+		</table>
+	</div>
+	
+	<!-- TAB 6 -->
+	<div id="tabs-6">
+		<table>
+			<tr>
+				<td>
+				<!-- SEQ PLUMBING-->
+				<iframe src="https://www.quickbase.com/MSChart/?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=495&IID=I3925y24iu&height=500&width=1400" " 
+				scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+				</iframe>
+				</td>
+			</tr>
+		</table>
+	</div>
+	
+	
+	<!-- TAB 7 -->
+	<div id="tabs-7">
+		<table>
+			<tr>
+				<td>
+				<!-- CQ ABS - INSURANCE TYPE-->
+				<iframe src="https://www.quickbase.com/MSChart/?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=496&IID=I3925y24iu&height=500&width=1400" " 
+				scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+				</iframe>
+				</td>
+			</tr>
+		</table>
+	</div>
+	
+	
+	<!-- TAB 8 -->
+	<div id="tabs-8">
+		<table>
+			<tr>
+				<td>
+				<!-- CQ ABS - FACILITY-->
+				<iframe src="https://www.quickbase.com/MSChart/?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=497&IID=I3925y24iu&height=500&width=1400" " 
+				scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+				</iframe>
+				</td>
+			</tr>
+		</table>
+	</div>
+	
+	
+	<!-- TAB 9 -->
+	<div id="tabs-9">
+		<table>
+			<tr>
+				<td>
+				<!-- NQ ABS - INSURANCE-->
+				<iframe src="https://www.quickbase.com/MSChart/?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=498&IID=I3925y24iu&height=500&width=1400" " 
+				scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+				</iframe>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<!-- TAB 10 -->
+	<div id="tabs-10">
+		<table>
+			<tr>
+				<td>
+				<!-- NQ ABS - FACILITY-->
+				<iframe src="https://www.quickbase.com/MSChart/?realmhost=www.quickbase.com&dbid=bgm8iwb92&qid=499&IID=I3925y24iu&height=500&width=1400" " 
+				scrolling="no" frameborder="0" width="1400px" height="500px" marginwidth="0px" marginheight="0px" id="iframeDundas" name="iframeDundas">
+				</iframe>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<!-- TAB 11 -->
+	<div id="tabs-11">
+		<table>
+				<tr>
+					<td>
+					<!-- Page i-->
+					<html>
+						<head>
+							<script lang="javascript" src="bhkxvpwz4?a=API_GenResultsTable&apptoken=8m644bbmwxaw5ccsjsi679yui9&qid=1&jht=1">
+							</script>
+						</head>
+						<body align="left">
+						<br>
+						<font color="#2554C7" size= 2><b>Management: All Projects</b></font><br><br><br>
+						<font style="arial" size= 1.0 color ="#1589FF"><a href="bhkxvpwz4?a=q&qid=1" target ="_blank">
+						<img src="https://images.quickbase.com/si/16/001-doc.png">FULL REPORT </a>&nbsp|&nbsp
+						<a href="bhkxvpwz4?a=q&qid=1&dlta=mog~&qskip=0" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/079-file_paint.png">GRID EDIT</a> &nbsp|&nbsp
+						<a href="https://www.quickbase.com/db/bhkxvpwz4?a=nwr" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/034-doc_add.png">Add a New Management Project</a> </font>
+						<br><br>
+						<script lang="javascript">
+						qdbWrite();
+						</script>
+					</body>
+				</html>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!-- TAB 12 -->
+	<div id="tabs-12">
+		<table>
+				<tr>
+					<td>
+					<!-- Page i-->
+					<html>
+						<head>
+							<script lang="javascript" src="bhkxfy4zq?a=API_GenResultsTable&apptoken=bxkikpxdbpqj4bdh74rt9qfhx2b&qid=1&jht=1">
+							</script>
+						</head>
+						<body align="left">
+						<br>
+						<font color="#2554C7" size= 2><b>Management: All Projects</b></font><br><br><br>
+						<font style="arial" size= 1.0 color ="#1589FF"><a href="bhkxfy4zq?a=q&qid=1" target ="_blank">
+						<img src="https://images.quickbase.com/si/16/001-doc.png">FULL REPORT </a>&nbsp|&nbsp
+						<a href="bhkxfy4zq?a=q&qid=1&dlta=mog~&qskip=0" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/079-file_paint.png">GRID EDIT</a> &nbsp|&nbsp
+						<a href="https://www.quickbase.com/db/bhkxfy4zq?a=nwr" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/034-doc_add.png">Add a New Marketing Project</a> </font>
+						<br><br>
+						<script lang="javascript">
+						qdbWrite();
+						</script>
+					</body>
+				</html>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<!-- TAB 13 -->
+	<div id="tabs-13">
+		<table>
+				<tr>
+					<td>
+					<!-- Page i-->
+					<html>
+						<head>
+							<script lang="javascript" src="bhkihiykg?a=API_GenResultsTable&apptoken=c3nt2e4bcpz5cvdiceidedjyqfbz&qid=1&jht=1">
+							</script>
+						</head>
+						<body align="left">
+						<br>
+						<font color="#2554C7" size= 2><b>Management: All Projects</b></font><br><br><br>
+						<font style="arial" size= 1.0 color ="#1589FF"><a href="bhkihiykg?a=q&qid=1" target ="_blank">
+						<img src="https://images.quickbase.com/si/16/001-doc.png">FULL REPORT </a>&nbsp|&nbsp
+						<a href="bhkihiykg?a=q&qid=1&dlta=mog~&qskip=0" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/079-file_paint.png">GRID EDIT</a> &nbsp|&nbsp
+						<a href="https://www.quickbase.com/db/bhkihiykg?a=nwr" target ="_blank">
+						<img src ="https://images.quickbase.com/si/16/034-doc_add.png">Add a New IT Project</a> </font>
+						<br><br>
+						<script lang="javascript">
+						qdbWrite();
+						</script>
+					</body>
+				</html>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+
+
+
+
+</div><!-- End AizerDashboard -->
+<div class="description" style="display: none; ">
+
+	<p>Click tabs to swap between content that is broken into logical sections.</p>
+
+</div><!-- End description -->
+
