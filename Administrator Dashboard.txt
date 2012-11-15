@@ -1,0 +1,156 @@
+<br>
+<table id="stripe3" class="t50" align="center"> <tbody>
+  <tr>
+    <td>
+    <div qbmenu="table1AddMenu" qbmset="1">
+      <input value="Accounting" type="submit">
+    </div></td>
+    <td>
+    <div qbmenu="table1FindMenu" qbmset="1">
+      <input value="Contracts & Admin" type="submit">
+    </div></td>
+    <td>
+    <div qbmenu="table1ViewMenu" qbmset="1">
+      <input value="Estimating" type="submit">
+    </div></td>
+<td>
+    <div qbmenu="table1AssessingMenu" qbmset="1">
+      <input value="Assessing" type="submit">
+    </div></td>
+    <td>
+    <div qbmenu="table1CommonMenu" qbmset="1">
+      <input value="Operational" type="submit">
+    </div></td>
+    <td>
+    <div qbmenu="table1HelpMenu" qbmset="1">
+      <input value="Help" type="submit">
+    </div></td>
+     <td>
+    <div qbmenu="table1OfficeDocsMenu" qbmset="1">
+      <input value="Office Docs" type="submit">
+    </div></td>
+    <td>
+    <div qbmenu="table1TutorialsMenu" qbmset="1">
+      <input value="Websites" type="submit">
+    </div></td>
+    <td>
+    <div>
+      <form>
+        <input onclick="parent.location='https://www.lucidchart.com/documents/view/47fc-fa58-4f445a46-a666-51050adc631f'" value="Process Charts" type="button">
+      </form>
+    </div></td>
+    <td>
+    <div>
+      <form>
+        <input onclick="window.open('bgtcm64ff?a=ShowPage&pageid=27')" value="Management Dashboard" type="button">
+      </form>
+    </div></td>
+ <td>
+    <div>
+      <form>
+        <input onclick="window.open('bhbfne574?a=gennewrecord')" value="IT Ticketing System"  type="button">
+      </form>
+    </div></td>
+	<td>
+    <div qbmenu="table1MyLinkstoOtherPage" qbmset="1">
+      <input value="Dashboard Pages" type="submit">
+    </div></td>
+    </tr> </tbody>
+</table> <!--menus start -->
+<div id="table1AddMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td>
+      <h4>Accounts
+      </h4> <a href="bgm8iv928?a=pagePreview&pageID=62">Accounts Overview</a> <a href="bgm8iv928?a=pagePreview&pageID=84">SEQ Accounts</a> <a href="bgm8iv928?a=pagePreview&pageID=83">CQ Accounts</a><a href="bgm8iv928?a=pagePreview&pageID=82">NQ Accounts</a><a href="bgm8iv928?a=pagePreview&pageID=81">Building Accounts</a> <a href="bgm8iv928?a=pagePreview&pageID=85">Electrical Accounts</a> </td>
+    </tr></tbody>
+  </table>
+</div>
+<div id="table1FindMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td>
+      <h4>Contracts & Admin
+      </h4> <a href="bgm8iv928?a=pagePreview&pageID=86">Contracts</a><a href="bgm8iv928?a=pagePreview&pageID=87">Updates & Tasks</a><a href="bgm8iv928?a=pagePreview&pageID=88">Claims Admin</a> <a href="bgm8iv928?a=pagePreview&pageID=89">OS Admin</a></td>
+    </tr></tbody>
+  </table>
+</div>
+<div id="table1ViewMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td>
+      <h4>Estimating
+      </h4> <a href="bg2kucvcx?a=q&amp;qid=1">Estimating Instructional</a> <a href="bgm8iv928?a=pagePreview&pageID=60">Overview</a> <a href="bgm8iv928?a=pagePreview&pageID=72">SEQ Estimating</a> <a href="bgm8iv928?a=pagePreview&pageID=73">CQ Estimating</a> <a href="bgm8iv928?a=pagePreview&pageID=74">NQ Estimating</a> <a href="bg2kucvcy?a=q&amp;qid=1"></a> </</td>
+    </tr></tbody>
+  </table>
+</div>
+<div id="table1AssessingMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td>
+      <h4>Assessing
+      </h4> <a href="bgm8iv928?a=dbpage&pageID=80">Assessing Instructional</a> <a href="bgm8iv928?a=pagePreview&pageID=78">Suncorp Instructional</a> <a href="bgm8iv928?a=pagePreview&pageID=78">Overview</a> <a href="bgm8iv928?a=pagePreview&pageID=76">SEQ Assessing</a> <a href="bgm8iv928?a=pagePreview&pageID=77">CQ Assessing</a> <a href="bgm8iv928?a=pagePreview&pageID=79">NQ Assessing</a> </td>
+    </tr></tbody>
+
+  </table>
+</div>
+<div id="table1CommonMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td>
+      <h4>Operations
+      </h4> <a href="bgm8iv928?a=pagePreview&pageID=66">Operations SEQ</a> <a href="bgm8iv928?a=pagePreview&pageID=67">Operations CQ</a><a href="bgm8iv928?a=pagePreview&pageID=68">Operations NQ</a> <a href="bgm8iv928?a=pagePreview&pageID=70">Building Only</a> <a href="bgm8iv928?a=pagePreview&pageID=69">Electrical Only</a> <a href="bgm8iv928?a=pagePreview&pageID=71">All Operations</a></td>
+    </tr></tbody>
+  </table>
+</div>
+<div class="PopMenu" id="table1HelpMenu" style="DISPLAY: none; VISIBILITY: hidden">
+  <table cellspacing="0" cellpadding="0"> <tbody>
+    <tr>
+      <td>
+      <h4>Help
+      </h4><a href="/help/">Online Help</a>  <a href="http://quickbase.intuit.com/support">Support Center</a><a href="http://community.intuit.com/categories/contents/10298">Community Forum</a><a href="http://quickbase.intuit.com/developer/knowledge-base">Knowledgebase</a><a href="http://quickbase.intuit.com/partners">Partner Information</a><a href="https://www.quickbase.com/api-guide/index.html">QuickBase API Guide</a><a href="6ewwzuuj?a=q&amp;qid=6">Formula Reference</a><a href="https://quickbase.intuit.com/support/portal/#">Open Support Case</a> </td>
+    </tr></tbody>
+  </table>
+</div>
+<div id="table1OfficeDocsMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td> 
+      <h4>Office Docs
+      </h4> <a href="http://www.aizer.com.au/">Newsletter</a><a href="http://www.bom.gov.au/products/IDR663.loop.shtml">Staff List inc phones</a><a href="http://www.bom.gov.au/products/IDR233.loop.shtml">Company Structure</a><a href="http://www.bom.gov.au/products/IDR733.loop.shtml">Stratigic Dashboard</a><a href="bg2kucuz7?a=ShowPage&amp;pageid=28">Office Calendar</a><a href="bg2kucuz7?a=ShowPage&amp;pageid=28">New Office</a><a href="http://claims.endataclaims.com/">Recent Projects</a></td>
+    </tr></tbody>
+  </table>
+</div>
+
+<div id="table1TutorialsMenu" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td> 
+      <h4>Websites
+      </h4> <a href="http://www.aizer.com.au/">Aizer Website</a><a href="http://www.bom.gov.au/products/IDR663.loop.shtml">Brisbane Radar</a><a href="http://www.bom.gov.au/products/IDR233.loop.shtml">Rockhampton Radar</a><a href="http://www.bom.gov.au/products/IDR733.loop.shtml">Townsville Radar</a><a href="bg2kucuz7?a=ShowPage&amp;pageid=28">Suncorp - vamp</a><a href="bg2kucuz7?a=ShowPage&amp;pageid=28">Stream</a><a href="http://claims.endataclaims.com/">Endata</a></td>
+    </tr></tbody>
+  </table>
+</div>
+<div id="table1MyLinkstoOtherPage" class="PopMenu" style="visibility: hidden; display: none;">
+  <table cellpadding="0" cellspacing="0"><tbody>
+    <tr>
+      <td> 
+    <h4><img src ="https://images.quickbase.com/si/16/285-user_group.png"> &nbsp Dashboard Pages
+      </h4> 
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=120/"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspCEO/Director</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=115"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspAccounts Management</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=116"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspAccounts Administration</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=117"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspAccount Manager</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=113"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspEstimators</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=108"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspPre Contract Coordinator</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=106"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspPre Contract Assistant</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=109"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspOperations Manager SEQ</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=119"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspOM SEQ Charts</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=111"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspOperations Manager CQ</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=110"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspOperations Manager NQ</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=114"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspProject Controllers</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=118"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspSupervisor</a>
+	  <a href="https://www.quickbase.com/db/bgm8iv928?a=pagePreview&pageID=107"><img src ="https://images.quickbase.com/si/16/280-user_0.png">&nbspPost Contract Assisstant</a>
+	  </td> </tr></body>
+  </table>
+</div>
